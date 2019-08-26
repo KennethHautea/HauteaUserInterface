@@ -1,0 +1,4 @@
+#Mon Aug 26 14:53:33 CST 2019
+base.0=D\:\\mobile\\UserInterface\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
